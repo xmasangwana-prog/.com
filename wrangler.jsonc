@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "skaap325",
+  "name": "manskaap325",
   "compatibility_date": "2026-04-15",
   "observability": {
     "enabled": true
